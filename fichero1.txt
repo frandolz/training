@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambios fichero1
+=======
+iss
+>>>>>>> 681b286c069d350f664a31c83c17a51b9d814610
